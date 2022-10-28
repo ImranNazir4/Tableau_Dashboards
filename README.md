@@ -7,5 +7,10 @@ In this dashboard different KPIs are created like New Positive cases, New Deaths
 There is a geographic graph that represents new and cumulative deaths in each country. There is a barplot that is sorted on new and cumulative
 deaths by each country.
 
+## New Reports 
 
 ![image](https://user-images.githubusercontent.com/106988509/198502050-5b30a7e9-cee0-423e-a79e-79079e2627d6.png)
+
+## Cummulative Reports
+
+![image](https://user-images.githubusercontent.com/106988509/198502809-5ac69ae3-05ac-4ed3-b1b1-6c81f4757dc7.png)
