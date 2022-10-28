@@ -34,4 +34,5 @@ This visualization represents the change in the number of passengers from 2019 t
 
 This viz shows the most used route for air traveling in America during covid.
 
+## Dashboard
 ![image](https://user-images.githubusercontent.com/106988509/198507016-51757e17-9da3-4dba-9506-701bad0cbb50.png)
