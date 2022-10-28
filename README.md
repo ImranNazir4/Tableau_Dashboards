@@ -13,4 +13,4 @@ deaths by each country.
 
 ## Cummulative Reports
 
-![image](https://user-images.githubusercontent.com/106988509/198502809-5ac69ae3-05ac-4ed3-b1b1-6c81f4757dc7.png)
+![image](https://user-images.githubusercontent.com/106988509/198503018-693e9706-4d69-4bd7-9ae1-2bfde2e91319.png)
