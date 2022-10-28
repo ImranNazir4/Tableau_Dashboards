@@ -79,4 +79,8 @@ This viz shows the most used route for air traveling in America during covid.
 
 
 
+![image](https://user-images.githubusercontent.com/106988509/198516362-49acfbd3-7099-4ac0-9484-7cbfd1b67095.png)
+
+
+![image](https://user-images.githubusercontent.com/106988509/198517435-5819ca6d-7516-4205-abdf-f771f615d7cb.png)
 
